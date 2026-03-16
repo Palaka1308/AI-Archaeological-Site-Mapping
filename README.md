@@ -27,7 +27,7 @@ The system supports conservation planning and heritage preservation by combining
 * Open AerialMap
 * Custom Annotated images (via Labelbox/QGIS)
 * Images Segmentation (via U-Net/DeepLabv3+)
-* Object Detection (via YOLO v8)
+* Object Detection (via YOLOv8)
 
 ## Tech Stack
 * Language - Python
