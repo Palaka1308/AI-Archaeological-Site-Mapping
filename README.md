@@ -65,4 +65,4 @@ The overall objective of this project is to:
 * To extract terrain and structural patterns from the images using AI techniques.
 * Evaluate model performance using metrics such as RMSE and R² score.
 * To improve the accuracy and efficiency of detecting hidden archaeological sites.
-* Build an interactive Streamlit interface for easy visu
+* Build an interactive Streamlit interface for easy visualization.
