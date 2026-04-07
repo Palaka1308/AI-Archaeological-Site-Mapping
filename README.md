@@ -32,14 +32,14 @@ Annotate / Preprocessed Image
 * Satellite/Drone imagery preprocessing.
 * Semantic segmentation (ruins vs vegetation vs bounding box).
 * Artifact detection and classification.
-* Annotation to Segmentation mask conversion
+* Annotation to Segmentation mask conversion.
 * Terrain erosion prediction.
 * Streamlit Dashboard visualization for archaeologists.
   
 ##  Project Workflow
 * Acquire and annotate the imagery.
 * Preprocess and split the dataset.
-* Generate the segmentation masks from the JSON annotations
+* Generate the segmentation masks from the JSON annotations.
 * Train U-net segmentation and YOLOv8 Object detection models.
 * Predict erosion zones using terrain features.
 * Overlay and visualize results through a Streamlit Dashboard.
