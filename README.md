@@ -50,6 +50,7 @@ Annotate / Preprocessed Image
 * Custom Annotated images (via Labelbox/QGIS)
 * Images Segmentation (via U-Net/DeepLabv3+)
 * Object Detection (via YOLOv8)
+* Extract Terrain Features (via XGBoost)
 * Streamlit App (For Visualization)
 
 ## Tech Stack
